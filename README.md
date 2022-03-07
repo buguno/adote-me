@@ -1,2 +1,3 @@
-# adote-me
-Uma api para doação de anamais de rua feita em Django Rest Framework
+# 🐈 Adote me
+
+Adote me é uma API Rest criada com Django REST framework, para fins de estudo.
