@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-from .routes import animals
+from app.main.routers import animals
 
 app = FastAPI()
 
